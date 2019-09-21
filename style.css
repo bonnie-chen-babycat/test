@@ -1,0 +1,27 @@
+/* CSS 選擇器  */
+/* 標籤名稱選擇器 */
+body{background-color: plum;font-family: "微軟正黑體"}
+span{font-weight: bold;} /* span 變成粗體 */
+/* ID 選擇器 */
+#del{text-decoration:line-through;}  /* 刪除線 */
+/* Class 選擇器 (最重要) 中間空格就可繼續選擇 */
+.all{
+    background-color: plum
+    }
+.title{
+    font-size:24px;
+    font-weight:bold
+    }
+.content{
+    height:50px;
+    width:300px;
+    margin-top:15px; 
+    border:4px double cyan; 
+    padding:15px;
+    }
+.keyword{
+    color: yellow
+    }
+.underline{
+    text-decoration:underline;
+    }
