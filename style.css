@@ -20,7 +20,7 @@ span{font-weight: bold;} /* span 變成粗體 */
     padding:15px;
     }
 .keyword{
-    color: yellow
+    color: red;
     }
 .underline{
     text-decoration:underline;
